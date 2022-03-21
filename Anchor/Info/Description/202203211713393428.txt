@@ -1,2 +1,2 @@
-The pipe will be a problem
-This pipe will be problem because an electric box that will be there.
+The pipe will be a problem (Fixed)
+Note It was resolved. We fixed it.
